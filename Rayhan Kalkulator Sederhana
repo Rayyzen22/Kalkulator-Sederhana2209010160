@@ -6,7 +6,7 @@
 
 /**
  *
- * @author ASUS VIVOBOOK
+ * @author Rayhan Arma
  */
 public class TampilanKalkulator extends javax.swing.JFrame {
 String angka;
